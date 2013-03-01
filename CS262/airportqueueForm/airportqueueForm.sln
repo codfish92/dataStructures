@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "airportqueueForm", "airportqueueForm\airportqueueForm.vcxproj", "{6514DF77-0B4C-41A1-944C-D96B3AA730C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6514DF77-0B4C-41A1-944C-D96B3AA730C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6514DF77-0B4C-41A1-944C-D96B3AA730C2}.Debug|Win32.Build.0 = Debug|Win32
+		{6514DF77-0B4C-41A1-944C-D96B3AA730C2}.Release|Win32.ActiveCfg = Release|Win32
+		{6514DF77-0B4C-41A1-944C-D96B3AA730C2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

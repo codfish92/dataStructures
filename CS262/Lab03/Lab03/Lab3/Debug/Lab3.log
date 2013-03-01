@@ -1,0 +1,42 @@
+﻿Build started 2/27/2012 10:38:39 AM.
+     1>Project "G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\Lab03\Lab03\Lab3\Lab3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lab3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt DrawList.cpp /clr:nostdlib 
+         DrawList.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xutility(2227): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xutility(2212) : see declaration of 'std::_Copy_impl'
+                 DrawList.cpp(74) : see reference to function template instantiation '_OutIt std::copy<macs262_labs::DrawList::value_type**,macs262_labs::DrawList::value_type**>(_InIt,_InIt,_OutIt)' being compiled
+                 with
+                 [
+                     _OutIt=macs262_labs::DrawList::value_type **,
+                     _InIt=macs262_labs::DrawList::value_type **
+                 ]
+         All outputs are up-to-date.
+       CoreResGen:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\Lab03\Lab03\Lab3\Debug\Lab3.exe) does not match the Linker's OutputFile property value (G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\Lab03\Lab03\Lab3\Lab3.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\Lab03\Lab03\Lab3\Lab3.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Lab3.Form1.resources /MANIFEST /ManifestFile:"Debug\Lab3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\Lab03\Lab03\Lab3\Debug\Lab3.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\DrawList.obj
+         Debug\Lab3.obj
+         Debug\MyRect.obj
+         Debug\Point.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Lab3.vcxproj -> G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\Lab03\Lab03\Lab3\Debug\Lab3.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\Lab03\Lab03\Lab3\Lab3.exe;#1" /manifest Debug\Lab3.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Lab3.unsuccessfulbuild".
+         Touching "Debug\Lab3.lastbuildstate".
+     1>Done Building Project "G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\Lab03\Lab03\Lab3\Lab3.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.10

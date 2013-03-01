@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkedListEx", "LinkedListEx\LinkedListEx.vcxproj", "{0235B54F-A3E0-46E1-A1FD-7A8501D85982}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkedListTemplate", "LinkedListTemplate\LinkedListTemplate.vcxproj", "{254750E9-1CA7-4CB0-87D9-A60008B60C95}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkedListIter", "LinkedListIter\LinkedListIter.vcxproj", "{73A808E0-E315-438F-B9EC-5BAF4D00A78F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0235B54F-A3E0-46E1-A1FD-7A8501D85982}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0235B54F-A3E0-46E1-A1FD-7A8501D85982}.Debug|Win32.Build.0 = Debug|Win32
+		{0235B54F-A3E0-46E1-A1FD-7A8501D85982}.Release|Win32.ActiveCfg = Release|Win32
+		{0235B54F-A3E0-46E1-A1FD-7A8501D85982}.Release|Win32.Build.0 = Release|Win32
+		{254750E9-1CA7-4CB0-87D9-A60008B60C95}.Debug|Win32.ActiveCfg = Debug|Win32
+		{254750E9-1CA7-4CB0-87D9-A60008B60C95}.Debug|Win32.Build.0 = Debug|Win32
+		{254750E9-1CA7-4CB0-87D9-A60008B60C95}.Release|Win32.ActiveCfg = Release|Win32
+		{254750E9-1CA7-4CB0-87D9-A60008B60C95}.Release|Win32.Build.0 = Release|Win32
+		{73A808E0-E315-438F-B9EC-5BAF4D00A78F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73A808E0-E315-438F-B9EC-5BAF4D00A78F}.Debug|Win32.Build.0 = Debug|Win32
+		{73A808E0-E315-438F-B9EC-5BAF4D00A78F}.Release|Win32.ActiveCfg = Release|Win32
+		{73A808E0-E315-438F-B9EC-5BAF4D00A78F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+﻿Build started 4/17/2012 4:20:34 PM.
+     1>Project "G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\Lab10\Lab10\showTree\showTree.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\showTree.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt bst.cpp showTree.cpp /clr:nostdlib 
+         bst.cpp
+         showTree.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Drew\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\Lab10\Lab10\Debug\showTree.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\showTree.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\Lab10\Lab10\Debug\showTree.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\bst.obj
+         Debug\showTree.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         showTree.vcxproj -> G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\Lab10\Lab10\Debug\showTree.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\Lab10\Lab10\Debug\showTree.exe;#1" /manifest Debug\showTree.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\showTree.unsuccessfulbuild".
+         Touching "Debug\showTree.lastbuildstate".
+     1>Done Building Project "G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\Lab10\Lab10\showTree\showTree.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.90

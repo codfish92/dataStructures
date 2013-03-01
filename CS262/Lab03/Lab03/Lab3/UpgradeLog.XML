@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lab3">
+</Property><Property Name="Solution File" Value="Z:\CS262\Lab03\Lab03\Lab3\Lab3.sln">
+</Property><Property Name="Date" Value="Wednesday, February 01, 2012">
+</Property><Property Name="Time" Value="12:10:23 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Lab3" Source="Lab3.vcproj" Description="Converting project file 'Z:\CS262\Lab03\Lab03\Lab3\Lab3.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Lab3" Source="Lab3.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="Lab3" Source="Lab3.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Lab3" Source="Lab3.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Lab3" Source="Lab3.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Lab3" Source="Lab3.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Lab3" Source="Lab3.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Lab3" Source="Lab3.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Lab3" Source="Lab3.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Lab3" Source="Lab3.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Lab3" Source="Lab3.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Lab3" Source="Lab3.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Lab3" Source="Lab3.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Lab3" Source="Lab3.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Lab3" Source="Lab3.vcproj" Description="MSB8012: $(TargetPath) ('Z:\CS262\Lab03\Lab03\Lab3\Debug\Lab3.exe') does not match the Linker's OutputFile property value 'C:\scratch\Lab3.exe' ('C:\scratch\Lab3.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="Lab3" Source="Lab3.vcproj" Description="Done converting to new project file 'Z:\CS262\Lab03\Lab03\Lab3\Lab3.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Lab3" Source="Lab3.vcproj" Description="Converted">
+</Event></UpgradeLog>

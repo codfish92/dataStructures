@@ -1,0 +1,28 @@
+﻿Build started 4/2/2012 12:43:01 PM.
+     1>Project "Z:\CS262\recursionLab2\recursionLab2\recursionLab2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\recursionLab2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>z:\cs262\recursionlab2\recursionlab2\main.cpp(41): warning C4715: 'GCD' : not all control paths return a value
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\recursionLab2.exe.embed.manifest.res" Debug\recursionLab2_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\CS262\recursionLab2\Debug\recursionLab2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\recursionLab2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Z:\CS262\recursionLab2\Debug\recursionLab2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\CS262\recursionLab2\Debug\recursionLab2.lib" /MACHINE:X86 Debug\recursionLab2.exe.embed.manifest.res
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\recursionLab2.exe.embed.manifest" /manifest Debug\recursionLab2.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\recursionLab2.exe.embed.manifest.res" Debug\recursionLab2_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\CS262\recursionLab2\Debug\recursionLab2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\recursionLab2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Z:\CS262\recursionLab2\Debug\recursionLab2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\CS262\recursionLab2\Debug\recursionLab2.lib" /MACHINE:X86 Debug\recursionLab2.exe.embed.manifest.res
+         Debug\main.obj
+         recursionLab2.vcxproj -> Z:\CS262\recursionLab2\Debug\recursionLab2.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\recursionLab2.unsuccessfulbuild".
+         Touching "Debug\recursionLab2.lastbuildstate".
+     1>Done Building Project "Z:\CS262\recursionLab2\recursionLab2\recursionLab2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.17

@@ -1,0 +1,20 @@
+﻿Build started 4/16/2012 1:47:43 PM.
+     1>Project "G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\RecursionLabv2\RecursionLabv2\RecursionLabv2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\RecursionLabv2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\RecursionLabv2.unsuccessfulbuild".
+         Touching "Debug\RecursionLabv2.lastbuildstate".
+     1>Done Building Project "G:\1014110012\Shit\school documents\11-12\spring\data structures\CS262\RecursionLabv2\RecursionLabv2\RecursionLabv2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.61

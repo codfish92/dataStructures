@@ -1,0 +1,89 @@
+north america|american bison|mammal|500000|great plains|hunting|20
+north america|gray bat|mammal|1500000|limestone caves|habitat destruction|15
+north america|black footed ferret|mammal|1000|central usa|habitat destruction|4
+north america|black bear|mammal|600000|forests|habitat destruction|23
+north america|bobcat|mammal|900000|woodlands|fur hunting|13
+north america|burrowing owl|bird|20000|dry grasslands|habitat destruction|8
+north america|cactus ferruginous pygmy-owl|bird|28|desert|habitat destruction|6
+north america|cerulean warbler|bird|560000|deciduous eastern forests|habitat destruction|6
+north america|cook inlet beluga whale|mammal|300|arctic waters|hunting|30
+north america|north atlantic right whale|mammal|350|north atlantic ocean|overfishing|60
+north america|gray wolf|mammal|200000|southwestern usa|conflict with people over livestock losses|8
+north america|grizzly bear|mammal|30000|dense forests and subalpine meadows|human-caused mortality|23
+north america|hawaiian monk seal|mammal|1350|central pacific ocean|human encroachment|23
+north america|hummingbird|bird|7300000|western hemisphere|habitat destruction|4
+north america|lynx|mammal|1000|mosaic of woodland|habitat destruction|13
+north america|killer whale|mammal|100000|west coast of north america|pollution and chemical contamination|40
+north america|florida manatee|mammal|3000|florida's coastal waters|habitat destruction|55
+north america|mexican spotted owl|bird|2106|forested mountains and canyons|loss of old growth forests|17
+north america|mexican wolf|mammal|200|mountain forests, grasslands|habitat destruction|15
+north america|northern spotted owl|bird|2600|old growth forests of northwest usa|habitat destruction|10
+north america|ocelot|mammal|1100000|mangrove forests, coastal marshes|habitat destruction|10
+north america|florida panther|mammal|100|forests|habitat destruction|13
+north america|peregrine falcon|bird|3300|cities, tropics, deserts|use of ddt as pesticide|12
+north america|mountain lion|mammal|30000|western hemisphere|hunted as threat to livestock|12
+north america|black-tailed prairie dog|mammal|10000000|great plains|habitat destruction|5
+north america|red wolf|mammal|207|northeastern usa|habitat destruction|7
+north america|sea otter|mammal|85000|shallow coastal waters|oil spills|15
+north america|kemp ridley sea turtle|reptile|6000|warm, temperate waters|fisheries impact|40
+north america|snowy owl|bird|290000|northern usa|collisions with automobiles, utility lines|10
+north america|swift fox|mammal|130|great plains|habitat destruction|4
+north america|monito gecko|reptile|250|puerto rican island|predation|10
+north america|red-cockaded woodpecker|bird|7500|southeastern usa|habitat destruction|8
+north america|barton springs salamander|amphibian|274|barton springs|contamination|9
+north america|mississippi gopher frog|amphibian|100|temperate forest|habitat destruction|6
+south america|anaconda|reptile|2600|swamps and rivers|hunting for hide|10
+south america|gray bat|mammal|1500000|limestone caves|habitat destruction|15
+south america|burrowing owl|bird|20000|dry grasslands|habitat destruction|8
+south america|cactus ferruginous pygmy-owl|bird|28|desert|habitat destruction|6
+south america|hummingbird|bird|7300000|western hemisphere|habitat destruction|4
+south america|killer whale|mammal|100000|west coast of north america|pollution and chemical contamination|40
+south america|jaguar|mammal|2400|forests|habitat destruction|18
+south america|bald uakari|mammal|10000|swampy or flooded tropical forests|habitat destruction|23
+south america|orinoco crocodile|reptile|800|orinoco river|hunting for hide|70
+south america|galapagos tortoise|reptile|15000|galapagos tortoise|hunting|150
+south america|giant otter|mammal|3500|lakes, rivers and swamps of south america|hunting|12
+south america|golden lion tamarin|mammal|800|humid tropical forest|hunting|15
+europe|peregrine falcon|bird|3300|cities, tropics, deserts|use of ddt as pesticide|12
+europe|mediterranean monk seal|mammal|500|coastal areas|fishing|25
+europe|north atlantic right whale|mammal|350|north atlantic ocean|overfishing|60
+europe|humpback whale|mammal|6000|coastal water of north ocean|hunting|45
+europe|european mink|mammal|40000|densely vegetated river banks|hunting|6
+europe|polar bear|mammal|22500|arctic coastlines|climatic warming|25
+europe|siberian musk deer|mammal|110000|siberia|overhunting|20
+europe|snow leopard|mammal|6000|periphery of tibetan plateau|hunting for fur|21
+europe|tiger|mammal|6300|tropical evergreen|habitat destruction|15
+africa|cheetah|mammal|10500|africa and asia|habitat destruction|11
+africa|chimpanzee|mammal|150000|dense tropical rainforest|habitat destruction|50
+africa|african elephant|mammal|600000|savannah zones|habitat destruction|70
+africa|grevy zebra|mammal|5000|grasslands|habitat destruction|22
+africa|lemur|mammal|12500|highly wooded forest|habitat destruction by fires|30
+africa|african wild dog|mammal|3500|savannas|habitat destruction|10
+africa|african lion|mammal|21000|south and eastern africa|habitat destruction|13
+africa|mountain gorilla|mammal|650|dense forest of east africa|habitat destruction|53
+africa|black rhinoceros|mammal|2400|savannas|poaching|35
+africa|mountain zebra|mammal|11000|slopes and plateaus|habitat destruction|35
+africa|geometric tortoise|reptile|2500|south africa|habitat destruction|100
+asia|asian lion|mammal|200|northwestern india|habitat destruction|13
+asia|amur leopard|mammal|40|northeastern china|habitat destruction|13
+asia|asian elephant|mammal|37500|southeast asia|habitat destruction|70
+asia|clouded leopard|mammal|10000|southeast asia|habitat destruction|17
+asia|giant panda|mammal|2000|bamboo forest|habitat destruction|25
+asia|orangutan|mammal|22000|dense rain forest|habitat destruction|37
+asia|sea otter|mammal|85000|shallow coastal waters|oil spills|15
+asia|malabar large spotted civet|mammal|250|evergreen rain forest|habitat destruction|10
+asia|chiru|mammal|75000|northwest tibet|poaching|8
+asia|palawan peacock pheasant|bird|10000|coastal lowland|habitat destruction|15
+asia|hoolock gibbon|mammal|170000|tropical evergreen rainforest|habitat destruction|50
+asia|ceylon mugger crocodile|reptile|200|freshwater|hunting for hide|70
+australia|tasmanian forester kangaroo|mammal|26000|grasslands and open woodlands|hunting|7
+australia|koala|mammal|10000|eucalyptus forest|habitat destruction|17
+australia|short-necked turtle|reptile|20|swan coastal plain|habitat destruction|40
+australia|chatham island black robin|bird|250|scrub forest remnants|habitat destruction|6
+australia|kakapo|bird|90|lowland podocarp forests|predation|60
+australia|cloven-feathered dove|bird|140000|northeast australia|hunting|9
+artic and antartic|killer whale|mammal|100000|west coast of north america|pollution and chemical contamination|40
+artic and antartic|polar bear|mammal|22500|arctic coastlines|climatic warming|25
+artic and antartic|walrus|mammal|250000|artic coastal region|hunting|40
+artic and antartic|humpback whale|mammal|6000|coastal water of north ocean|hunting|45
+artic and antartic|galapagos penguin|bird|10500|antartic waters|climatic warming|18
